@@ -2,7 +2,7 @@
 - 👀 I’m interested in study
 - 🌱 I’m currently learning swift
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me ...
+- 📫 How to reach me almazovaidar1@gmail.com
 - 😄 Pronouns: he his
 - ⚡ Fun fact: hate frogs
 
